@@ -1,0 +1,10 @@
+package org.eternity.movie.step01;
+
+public class Money {
+
+	public Money times(int audienceCount) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

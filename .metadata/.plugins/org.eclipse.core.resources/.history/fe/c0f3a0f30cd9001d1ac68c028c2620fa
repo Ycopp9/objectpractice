@@ -1,0 +1,11 @@
+package org.eternity.movie.step01;
+
+public class AmountDiscountPolicy extends DiscountPolicy {
+
+	@Override
+	protected Money getDiscountAmount(Screening screening) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

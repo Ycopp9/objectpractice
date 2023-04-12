@@ -1,0 +1,10 @@
+package org.eternity.movie.step01;
+
+public abstract class DiscountPolicy {
+
+	private List<DiscountCondition> conditions = new ArrayList<>();
+	public Money calculateDiscountAmount(Screening screening) {
+		
+	}
+
+}
